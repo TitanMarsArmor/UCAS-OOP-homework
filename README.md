@@ -6,6 +6,6 @@
 
 国科大邮箱：songxinquan23@mails.ucas.ac.cn
 
-week7-8要求提交的第一版大作业，由源码设计与分析pdf和第一次汇报ppt共同组成。
+week7-8要求提交的第一版大作业，由源码设计与分析pdf和扩展点需求分析与建模pdf共同组成。
 
 源码分析、扩展点设计和报告撰写过程由deepseek和Trae CN辅助完成。
